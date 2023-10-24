@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hey there! I'm Abdullah</h2>
 
-<!--
-**HellDub/HellDub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 🎓 &nbsp; Software Engineering Diploma - EMSI
+- 💼 &nbsp; Working as a FrontEnd Engineer(https://www.nalikes.com)
+- 📝 &nbsp; I regularly write philosophy articles on [my blog](https://philoaleatoire.wordpress.com)
+- 🌱 &nbsp; Learning more about Devops and Back-end technologies
+- 📫 &nbsp; How to reach me: berrajabdellah@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> 🛠 Tech Stack </h3>
+
+- 💻 &nbsp;  Python
+- 🌐 &nbsp;  ReactJS | Next.js | JavaScript | TypeScript
+- 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design | CSS
+- 🛢 &nbsp; MySQL | PostgreSQL
+- 🖥 &nbsp; Figma
