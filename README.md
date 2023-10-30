@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as a FrontEnd Engineer(https://www.royalairmaroc.com)
 - 📝 &nbsp; I regularly write philosophy articles on [my blog](https://philoaleatoire.wordpress.com)
 - 🌱 &nbsp; Learning more about Devops and Back-end technologies
-- 📫 &nbsp; How to reach me: berrajabdellah@gmail.com
+- 📫 &nbsp; How to reach me: berrajabdellah123@gmail.com
 
 
 <h3> 🛠 Tech Stack </h3>
