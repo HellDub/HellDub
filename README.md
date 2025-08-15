@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🎓 &nbsp; Software Engineering Diploma - EMSI
-- 💼 &nbsp; Working as a FrontEnd Engineer(https://www.royalairmaroc.com)
+- 💼 &nbsp; Working as a FrontEnd Engineer(https://www.orange.com)
 - 📝 &nbsp; I regularly write philosophy articles on [my blog](https://philoaleatoire.wordpress.com)
 - 🌱 &nbsp; Learning more about Devops and Back-end technologies
 - 📫 &nbsp; How to reach me: berrajabdellah123@gmail.com
